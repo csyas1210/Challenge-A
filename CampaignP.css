@@ -1,9 +1,9 @@
 .grid {
-  border: 2px #2874A6 solid;
+  border: 3px #1a6e2b solid;
   width: 1872px;
   height: 800px;
   display:grid;
-  background-color: #85C1E9;
+  background-color: #3a994d;
   padding: 10px;
   grid-gap: 5px;
   grid-template: repeat (3, 1fr) / 3fr repeat(4, 3fr 2fr);
@@ -13,7 +13,7 @@
 	background-color: white;
 	color: black;
 	border-radius: 5px;
-	border: 2px #2874A6 solid;
+	border: 3px #1a6e2b solid;
 }
 .a {
 	grid-column-start: 1;
@@ -38,7 +38,7 @@
 }
 
 body {
-  background-color: #85C1E9;
+  background-color: #3a994d;
 
 }
 
